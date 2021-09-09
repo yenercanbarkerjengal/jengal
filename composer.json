@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "yenercan.barker/jengal",
     "type": "project",
+    "license": "MIT",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
-    "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
         "fruitcake/laravel-cors": "^2.0",
@@ -32,6 +32,12 @@
             "Tests\\": "tests/"
         }
     },
+    "authors": [
+        {
+            "name": "yenercanbarkerjengal",
+            "email": "86950701+yenercanbarkerjengal@users.noreply.github.com"
+        }
+    ],
     "scripts": {
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
